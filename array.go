@@ -13,6 +13,9 @@ func main() {
 	fmt.Println(names[1])
 	fmt.Println(names[2])
 
+
+	//command
+
 	var values = [3]int{
 		10,
 		20,
