@@ -1,4 +1,4 @@
-// example 5, 6
+// example 5
 package main
 
 import "fmt"
